@@ -1,0 +1,9 @@
+/Users/reemibrahim/Documents/springboot-psql-docker-project/src/main/java/com/project/template/controller/advice/ControllerAdvisor.java
+/Users/reemibrahim/Documents/springboot-psql-docker-project/src/main/java/com/project/template/controller/Controller.java
+/Users/reemibrahim/Documents/springboot-psql-docker-project/src/main/java/com/project/template/ProjectApplication.java
+/Users/reemibrahim/Documents/springboot-psql-docker-project/src/main/java/com/project/template/controller/response/Response.java
+/Users/reemibrahim/Documents/springboot-psql-docker-project/src/main/java/com/project/template/persistence/SomeRepository.java
+/Users/reemibrahim/Documents/springboot-psql-docker-project/src/main/java/com/project/template/domain/Entity.java
+/Users/reemibrahim/Documents/springboot-psql-docker-project/src/main/java/com/project/template/service/SomeService.java
+/Users/reemibrahim/Documents/springboot-psql-docker-project/src/main/java/com/project/template/controller/request/CreationRequest.java
+/Users/reemibrahim/Documents/springboot-psql-docker-project/src/main/java/com/project/template/service/impl/SomeServiceImpl.java

@@ -1,0 +1,9 @@
+com/project/template/persistence/SomeRepository.class
+com/project/template/controller/response/Response.class
+com/project/template/ProjectApplication.class
+com/project/template/service/SomeService.class
+com/project/template/controller/Controller.class
+com/project/template/domain/Entity.class
+com/project/template/controller/request/CreationRequest$CreationRequestBuilder.class
+com/project/template/controller/advice/ControllerAdvisor.class
+com/project/template/controller/request/CreationRequest.class
